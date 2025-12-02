@@ -305,8 +305,8 @@ response = asyncio.run(agent.arun("需要 Python 开发工程师"))
 
 感谢以下开源项目的支持：
 - [LangChain](https://github.com/langchain-ai/langchain)
-- [Streamlit](https://github. com/streamlit/streamlit)
-- [Milvus](https://github. com/milvus-io/milvus)
+- [Streamlit](https://github.com/streamlit/streamlit)
+- [Milvus](https://github.com/milvus-io/milvus)
 - [Elasticsearch](https://www.elastic.co/elasticsearch/)
 - [BGE Embedding Model](https://huggingface.co/BAAI/bge-m3)
 
