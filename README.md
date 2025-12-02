@@ -1,7 +1,7 @@
 # SmartRecruit - 智能简历推荐系统
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields. io/badge/Streamlit-1.45+-green.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.45+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📋 项目介绍
@@ -298,7 +298,7 @@ response = asyncio.run(agent.arun("需要 Python 开发工程师"))
 ## 📞 联系方式
 
 - **作者**：angel-investor
-- **Email**：contact@smartrecruit.com
+- **Email**：youchenghu10@gmail.com
 - **GitHub Issues**：[提交问题](https://github.com/angel-investor/SmartRecruit/issues)
 
 ## 🙏 致谢
