@@ -47,7 +47,7 @@
 - 系统自动提取文本（使用OpenAI Qwen处理图像），切块（LangChain），向量化存储（Milvus、Elasticsearch）。
 - 输出：成功日志，如“简历上传并处理成功: resume.pdf”。
 
-![image-20251130232428007](.\assets\image-20251130232428007.png)
+![image-20251130232428007](assets\image-20251130232428007.png)
 
 ### 示例2：招聘查询
 
@@ -55,14 +55,14 @@
 - 系统通过LangGraph Agent识别招聘意图，调用Milvus和Elasticsearch混合检索，Qwen生成推荐JSON，如：[{"candidate_id": 1, "reason": "候选人精通CSS3、JavaScript...", "source_file": "resume.pdf"}]
 - Web界面显示推荐列表，支持点击查看原简历。
 
-![image-20251130232440781](.\assets\image-20251130232440781.png)
+![image-20251130232440781](assets\image-20251130232440781.png)
 
 ### 示例3：意图识别
 
 - 用户输入：“你好”。
 - 系统通过LangGraph分类为“chit_chat”意图，响应：“你好！我是您的智能招聘助手。”
 
-![image-20251130232458229](.\assets\image-20251130232458229.png)
+![image-20251130232458229](assets\image-20251130232458229.png)
 
 
 
@@ -72,4 +72,4 @@
 
 系统整合了多个业界主流的技术框架，各司其职，共同构建了一个高效、智能的RAG应用。
 
-![image-20251130232523583](.\assets\image-20251130232523583.png)
+![image-20251130232523583](assets\image-20251130232523583.png)
